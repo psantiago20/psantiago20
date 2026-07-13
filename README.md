@@ -15,7 +15,7 @@ Estou estudando programação e buscando minha primeira oportunidade
 <h1 style="font-size:18px">
     <a href="https://www.alphaedtech.org.br/">
      <img align="center" width="40px" src="https://static.wixstatic.com/media/3d3594_6a16c57cf43a45148ba18da30afb4ad7~mv2.png/v1/fill/w_392,h_210,al_c,lg_1,q_85,enc_avif,quality_auto/LOGO%201.png"></a>
-    <span> Alpha Edtech /span>
+    <span> Alpha Edtech </span>
 </h1>
 
 - Alpha Edtech- Code Academy de formação acelerada promovida pelo [Instituto Alpha Lumen](https://www.ial.org.br/)
